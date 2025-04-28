@@ -1,0 +1,15 @@
+# Ignore compiled class files
+*.class
+
+# Ignore Eclipse project files
+*.classpath
+*.project
+.settings/
+
+# Build folders
+/bin/
+target/
+out/
+
+# OS-specific files
+.DS_Store
