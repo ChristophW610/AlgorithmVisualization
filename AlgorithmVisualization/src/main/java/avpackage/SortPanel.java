@@ -2,10 +2,10 @@ package avpackage;
 
 import java.awt.Color;
 import java.awt.Graphics;
-
 import javax.swing.JPanel;
 
 public class SortPanel extends JPanel {
+	
 	private int[] array;
 	
 	public SortPanel(int[] array) {
